@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Lambda zips (can be rebuilt)
+*.zip
+
+# AWS credentials (never commit real ones)
+.aws/
+
+# Mac junk
+.DS_Store
+
+# Temp files
+*.log
+/tmp/
+response.json
